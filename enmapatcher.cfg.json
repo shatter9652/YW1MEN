@@ -1,0 +1,7 @@
+{
+  "appName": "Yo-kai Watch 1 Smartphone",
+  "renameAssets": true,
+  "exclude_ios": ["assets/android/**"],
+  "platforms": { "Android": true, "iOS": false },
+  "ai_content": false,
+  "License": "MIT License"
